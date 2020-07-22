@@ -1,0 +1,1 @@
+Take simple paramterization for a prior, liklihood and generate some posteiors.
